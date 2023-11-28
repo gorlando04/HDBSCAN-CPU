@@ -1,0 +1,4 @@
+Name,N_sample,Dim,Size (GB),mpts,is_initial_kNNG_connected,is_new_kNNG_connected,ARI,HAI
+moons,2000.0,2.0,3.2e-05,15.0,False,True,1.0,0.9980568179999958
+anuran,7195.0,22.0,0.00126632,15.0,False,True,0.9537773996389572,0.9591667104632244
+anuran,7195.0,22.0,0.00126632,5.0,False,False,,

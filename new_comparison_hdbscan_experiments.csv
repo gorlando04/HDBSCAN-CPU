@@ -1,0 +1,2 @@
+Name,N_sample,Dim,Size (GB),mpts,is_initial_kNNG_connected,is_new_kNNG_connected,Time_myMethod,Time_exact_HDBSCAN,ARI_myMethod,HAI_myMethod,Time_app_HDBSCAN,ARI_APP_HDBSCAN,HAI_APP_HDBSCAN
+gamma,1998.0,2.0,3.1968e-05,10.0,False,True,1.8463194370269775,0.2022843360900879,1.0,0.9972110575366625,0.07143545150756836,1.0,0.9972224326278222
